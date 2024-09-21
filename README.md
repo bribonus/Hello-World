@@ -7,4 +7,5 @@ This repository is for practice
 2. updated profile
 3. created my first repository
 4. tested different markdown options
-**in progress**
+
+[**in progress LinkedIn**] https://www.linkedin.com/in/brianne-e-bonus-606341290/
