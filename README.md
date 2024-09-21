@@ -1,7 +1,7 @@
 # Hello-World
 This repository is for practice
 ## This Project
-*used for practice and is not real*
+*used for practice* 
 ### Steps Taken
 1. created GitHub account
 2. updated profile
@@ -9,6 +9,7 @@ This repository is for practice
 4. tested different markdown options
 
 ### Final Results
+*final results here*
 
 ### More About Me
 [**in progress LinkedIn**] https://www.linkedin.com/in/brianne-e-bonus-606341290/
